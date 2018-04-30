@@ -30,6 +30,8 @@ Autres conseillés:
 * La Horde du Contrevent, Alain Damasio
 * Dune, David Lynch
 * Nouvelles de Philip K. Dick
+* Le désert des Tartares (Buzzati)
+* The Giver (Lois Lowry)
 
 ## Geekingfrog
 
