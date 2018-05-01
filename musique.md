@@ -11,9 +11,40 @@ Faites péter les com'z
 
 ### before
 
+- Alan Stivell (au delà des mots)
+- Björk (biophilia, homogenic)
+- Brel
+- Gainsbourg
+- Gorillaz
+- Lana del Rey
+- Lorde
+- Léonard Cohen
+- Massive Attack
+- Metallica
+- Parov Stelar
+- Stupéflip
+- archive (londinium, controlling crowds)
+- casseurs flowters
 - pink floyd
 - stromae
-- casseurs flowters
+
+OSTs:
+- Bastion
+- Faster Than Light (FTL)
+- Gods will be watching
+- LotR
+- Luftrausers
+- Portal
+- Touhou 6,7,11
+- nightmare before christmas
+- risk of rain
+
+classique:
+- Tchaikovsky (symphonies, le lac des cygnes)
+- Mahler (1, 2, 6è)
+- Bach (partita pour flûte, fugues)
+- Verdi (requiem)
+- Beethoven (symphonies)
 
 ## Polochon_street
 
