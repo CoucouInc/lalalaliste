@@ -2,11 +2,27 @@
 
 Faites péter les com'z
 
+## Armael
+
+### All times best (non exhaustive)
+
+- Hiromi & the Trio Project
+- Porcupine Tree
+- Leprous
+
+### Automne-Hiver 2017-2018
+
+- Wilco
+- If these trees could talk
+- Wilderun - Sleeping on the edge of the earth
+- Wolfmother - Wolfmother
+- Supertramp - Crisis? What crisis?
+
 ## companion_cube
 
 ### 2018-04
 
-- princess chelsea 
+- princess chelsea
 - woodkid
 
 ### before
