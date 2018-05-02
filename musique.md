@@ -17,6 +17,7 @@ Faites péter les com'z
 - Wilderun - Sleeping on the edge of the earth
 - Wolfmother - Wolfmother
 - Supertramp - Crisis? What crisis?
+- Justice - Woman
 
 ## companion_cube
 
