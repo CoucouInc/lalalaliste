@@ -38,3 +38,10 @@
 - Tous les Half-Life
 - Tous les Mass Effect
 - Doki Doki Literature Club (light novel, horreur psychologique)
+
+## Polochon_street
+
+- Metal Gear Solid 3/4/V (Infiltration/Scénario pop-corn)
+- Tous les Half-Life (FPS)
+- The Witcher 3 (à condition d'avoir lu les bouquins) (RPG)
+- Dishonored (FPS)
