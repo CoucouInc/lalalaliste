@@ -27,3 +27,14 @@
 - Fallout: New Vegas (RPG)
 - Slay the Spire (roguelike/deck building, linux)
 - Dark Messiah of Might & Magic (Action-RPG)
+
+## artart78
+
+- Super Meat Boy (plateforme)
+- Hotline Miami (shoot-em-up) (et le 2 dans une moindre mesure)
+- Hyper Light Drifter (action)
+- Dark Souls 1 (action-RPG)
+- Skyrim (action-RPG)
+- Tous les Half-Life
+- Tous les Mass Effect
+- Doki Doki Literature Club (light novel, horreur psychologique)
