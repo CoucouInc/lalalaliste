@@ -51,3 +51,48 @@
 ## Biganon
 
 - Le jeu avec le bonhomme
+
+## Gikiam
+
+Les jeux qu'ils sont trop bien, classés par catégories, et par awesomeness dedans
+
+### Hors catégorie (les meilleurs)
+- Hollow Knight
+- Mirror's Edge
+
+### Hors catégorie (les spéciaux)
+- Jazzpunk
+- The Stanley Parable
+- Gunpoint
+- Tiny and Big
+- Kerbal Space Program
+- Slay the Spire
+- Return of the Obra Dinn
+- Receiver
+- Super Hexagon
+
+### Action / Plateforme / Aventure (take any)
+- Cuphead
+- Dustforce
+- Hyper Light Drifter
+- Shovel Knight
+- Guacamelee
+- Broforce
+- Mark of the Ninja
+- Borderlands 2
+- Rayman Origins
+
+### Scénario, 
+- Disco Elysium
+- The Red Strings Club
+- Oxenfree
+
+### Puzzle
+- The Witness
+- Antichamber
+- The Talos Principle
+- Portal 1 et 2
+
+## Multi
+- Nidhogg
+- Towerfall Ascension
