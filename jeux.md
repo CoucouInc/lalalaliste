@@ -64,12 +64,6 @@ Les jeux qu'ils sont trop bien, classés par catégories, et par awesomeness ded
 - Jazzpunk
 - The Stanley Parable
 - Gunpoint
-- Tiny and Big
-- Kerbal Space Program
-- Slay the Spire
-- Return of the Obra Dinn
-- Receiver
-- Super Hexagon
 
 ### Action / Plateforme / Aventure (take any)
 - Cuphead
@@ -77,10 +71,6 @@ Les jeux qu'ils sont trop bien, classés par catégories, et par awesomeness ded
 - Hyper Light Drifter
 - Shovel Knight
 - Guacamelee
-- Broforce
-- Mark of the Ninja
-- Borderlands 2
-- Rayman Origins
 
 ### Scénario, 
 - Disco Elysium
@@ -91,7 +81,6 @@ Les jeux qu'ils sont trop bien, classés par catégories, et par awesomeness ded
 - The Witness
 - Antichamber
 - The Talos Principle
-- Portal 1 et 2
 
 ## Multi
 - Nidhogg
