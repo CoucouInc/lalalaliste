@@ -86,3 +86,41 @@ Les jeux qu'ils sont trop bien, classés par catégories, et par awesomeness ded
 ## Multi
 - Nidhogg
 - Towerfall Ascension
+
+## Shampooing
+
+Favoris en **gras**.
+
+- PvE
+	- RPG, Action, 3rd-person
+		+ Dark Souls, **Dark Souls 3**, Sekiro: Shadows Die Twice
+		+ The Witcher 3
+		+ Red Dead Redemption 2
+	- RPG, Action, 1st-person
+		+ Fallout: New Vegas, Fallout 3
+		+ **Deus Ex**, Deus Ex: Human Revolution
+		+ Dishonored, Dishonored 2
+		+ Prey
+		+ Dark Messiah of Might & Magic
+		+ Half-Life 2
+		+ STALKER Shadow of Chernobyl
+	- RPG, Action, 2D
+		+ Salt and Sanctuary
+	- RPG, turn-based
+		+ **Divinity: Original Sin 2**, Divinity: Original Sin
+		+ XCOM: Enemy Unknown
+		+ Slay the Spire
+	- FPS/Puzzle
+		+ Portal 2
+	- Building/Strategy
+		+ **Factorio**
+		+ Total War: Shogun 2
+	- Point & click
+		+ **Disco Elysium**
+		+ Her Story
+		+ Syberia
+- PvP
+	- FPS
+		+ CSGO
+	- Sport
+		+ **Rocket League**

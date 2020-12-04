@@ -71,3 +71,32 @@ classique:
 * Orelsan
 * Parov Stelar
 * Vincent Delerm
+
+## Shampooing
+
+Favoris en **gras**.
+
+### Trinity
+
+- **Pink Floyd** - Wish you Were Here
+- **Queen** - Innuendo, Made in Heaven
+- **Leonard Cohen** - Live in London
+
+### Runners-up
+
+- **Dire Straits** - Communiqué
+- **Morcheeba** - Blood Like Lemonade
+- Neil Young - **Harvest**
+- ABBA - **The Visitors**
+- Deep Purple - **Machine Head**
+
+### Rest of the best
+
+- JJ Cale - 5, Naturally
+- Interpol - Our Love to Admire
+- Norah Jones - Little Broken Hearts
+- Rachmaninov - Piano Concertos Nos. 2 & 3
+- Supertramp - Breakfast in America
+- Van Morrison - Moondance
+- The Velvet Underground, Nico - The Velvet Underground & Nico
+- Zero 7 - Simple Things
