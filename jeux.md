@@ -106,6 +106,7 @@ Favoris en **gras**.
 		+ STALKER Shadow of Chernobyl
 	- RPG, Action, 2D
 		+ Salt and Sanctuary
+		+ Hades
 	- RPG, turn-based
 		+ **Divinity: Original Sin 2**, Divinity: Original Sin
 		+ XCOM: Enemy Unknown
