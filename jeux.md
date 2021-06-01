@@ -39,7 +39,7 @@
 - Skyrim (action-RPG)
 - Tous les Half-Life
 - Tous les Mass Effect
-- Doki Doki Literature Club (light novel, horreur psychologique)
+- Doki Doki Literature Club (visual novel, horreur psychologique)
 
 ## Polochon_street
 

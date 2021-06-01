@@ -38,7 +38,7 @@ Autres conseillés:
 Top 3:
 1. The final empire (mistborn trilogy) de Brandon Sanderson
 2. A song of fire and ice (game of thrones) de George R. R. Martin
-3. Fundation (surtout les 3 premiers) de Asimov
+3. Foundation (surtout les 3 premiers) de Asimov
 
 Autres:
 
